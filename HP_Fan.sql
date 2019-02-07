@@ -13,7 +13,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de données :  `hp_fan`
+-- Base de données :  `HP_Fan`
 --
 
 -- --------------------------------------------------------
