@@ -1,9 +1,5 @@
 ﻿-- phpMyAdmin SQL Dump
---
---
---
---
------- Version de PHP :  5.6.31
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
